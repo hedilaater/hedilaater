@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Mohamed hedi laater
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning "Licence en Informatique Génie Logiciel"
+- 🌱 I’m learn "Licence en Informatique Génie Logiciel"
 - 📫 How to reach me mail: hedi.laater@gmail.com
